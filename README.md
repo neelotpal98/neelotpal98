@@ -64,7 +64,7 @@ I'm currently exploring **Generative AI, LLM applications, RAG, AI Agents, and C
 
 ### 📫 Connect
 
-**Portfolio:** [neelotpal.portfolio](https://neelotpal.pages.dev/)
+**Portfolio:** [My Portfolio](https://neelotpal.pages.dev/)
 
 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
 
